@@ -1,1 +1,6 @@
-
+{
+  "attemptedSignIn" : "null",
+  "signedIn": "null",
+  "2faType" : "null",
+  "2faCode" : "null"
+}
